@@ -1,12 +1,12 @@
-function main(){
-    // Only change code below this line
+function main() {
+  // Only change code below this line
 
-    var lastName = 'Bezos' 
-    var thirdToLastLetterOfLastName = lastName[lastName.length - 3];
+  var lastName = "Bezos";
+  var thirdToLastLetterOfLastName = lastName[lastName.length - 3];
 
-    // Only change code above this line
+  // Only change code above this line
 
-    return thirdToLastLetterOfLastName;
+  return thirdToLastLetterOfLastName;
 }
 
 console.log(main());
